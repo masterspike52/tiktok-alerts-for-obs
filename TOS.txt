@@ -1,0 +1,45 @@
+Terms of Service
+
+Last Updated: [Date]
+
+1. Acceptance of Terms
+
+By using [Your Program Name] ("the Program"), you agree to comply with and be bound by the following Terms of Service ("TOS"). If you do not agree to these terms, please do not use the Program.
+
+2. Description of the Program
+
+[Your Program Name] is a service that provides TikTok follow alerts by monitoring TikTok user accounts for new followers.
+
+3. API Access
+
+To use the Program, you must have a valid TikTok API key and adhere to TikTok's terms of service and API policies. [Your Company] is not responsible for any violations of TikTok's policies by the Program users.
+
+4. Privacy
+
+The Program may access and store TikTok user data, including user IDs and follower information. We take user privacy seriously and will only use this data for the intended purpose of providing follow alerts. For more information on how we handle user data, please refer to our Privacy Policy.
+
+5. Alerts
+
+The Program will send alerts to the provided email address when new followers are detected on TikTok. The frequency and format of alerts may vary.
+
+6. User Responsibilities
+
+You are responsible for maintaining the confidentiality of your TikTok API credentials and any other login information.
+You agree not to use the Program for any illegal or unauthorized purpose.
+You agree not to interfere with or disrupt the operation of the Program.
+7. Termination
+
+[Your Company] reserves the right to terminate or suspend access to the Program at any time without notice for violations of these terms or for any other reason.
+
+8. Disclaimer
+
+The Program is provided "as is" and without warranty of any kind. [Your Company] is not responsible for any errors, omissions, or interruptions in the service.
+
+9. Changes to TOS
+
+[Your Company] reserves the right to update or modify these Terms of Service at any time. It is your responsibility to review the TOS periodically for changes. Your continued use of the Program after the posting of any changes constitutes acceptance of those changes.
+
+10. Contact Information
+
+If you have any questions or concerns about these Terms of Service, please contact us at [Contact Email].
+
