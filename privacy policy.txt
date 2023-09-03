@@ -1,0 +1,40 @@
+Privacy Policy
+
+Last Updated: [Date]
+
+1. Introduction
+
+This Privacy Policy ("Policy") describes how [Your Company] ("we," "us," or "our") collects, uses, and protects personal information obtained from users of [Your Program Name] ("the Program"). By using the Program, you consent to the practices described in this Policy.
+
+2. Information We Collect
+
+TikTok User Data: The Program may collect TikTok user data, including user IDs and follower information, solely for the purpose of providing follow alerts. We do not collect sensitive information such as passwords.
+
+Email Address: We may collect and store the email address you provide for the purpose of sending follow alerts.
+
+3. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+To monitor TikTok user accounts and provide follow alerts.
+To send follow alerts to the provided email address.
+To improve and maintain the Program.
+4. Data Security
+
+We take the security of your data seriously and implement reasonable measures to protect it. However, please note that no method of data transmission or storage is 100% secure, and we cannot guarantee the security of your data.
+
+5. Sharing Your Information
+
+We do not share your personal information with third parties unless required by law or with your explicit consent.
+
+6. Your Choices
+
+You may choose to stop using the Program at any time.
+You may opt out of receiving follow alerts by discontinuing your use of the Program.
+7. Changes to this Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time. We will notify users of any material changes by posting the revised Policy on our website.
+
+8. Contact Information
+
+If you have questions or concerns about this Privacy Policy, please contact us at [Contact Email].
